@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mithin.com](https://mithin.com)
 
-- 💬 Ask me about **React, MongoDB, Slack API**
+- 💬 Ask me about **Javascript, React, and MongoDB**
 
 - 📫 How to reach me **mithingthomas@gmail.com**
 
