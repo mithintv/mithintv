@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mithin</h1>
-<h3 align="center">Creative Software Engineer with 2+ years of experience. Proven track record of implementing full-stack applications. Self-motivated, empathetic, and thoughtful.</h3>
+<h3 align="center">I am a self-taught Software Engineer with an enthusiasm for compassionate and empathetic ideas that can have real impact. Unfortunately, I never learned how to swim and I think raw tomatoes are gross.</h3>
 
 - 🌱 I’m currently learning **C++, Vue, and PostgreSQL**
 
