@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mithin</h1>
-<h3 align="center">I am a self-taught Software Engineer with an enthusiasm for compassionate and empathetic ideas that can have real impact. Unfortunately, I never learned how to swim and I think raw tomatoes are gross.</h3>
+<h1 align="center">Hi 👋🏽, I'm Mithin</h1>
+<h3 align="center">I am a Filmmaker turned self-taught Software Engineer with an enthusiasm for compassionate and empathetic ideas that can have real impact.</h3>
 
 - 🌱 I’m currently learning **C++, Vue, and PostgreSQL**
 
@@ -8,6 +8,8 @@
 - 💬 Ask me about **Javascript, React, and MongoDB**
 
 - 📫 How to reach me **mithingthomas@gmail.com**
+
+- ⚡ Fun fact: **I never learned how to swim and I think raw tomatoes are gross**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
