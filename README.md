@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Mithin</h1>
+<h1 align="center">Hi! 👋🏽</h1>
 <h3 align="center">I am a Filmmaker turned self-taught Software Engineer with an enthusiasm for compassionate and empathetic ideas that can have real impact.</h3>
 
 - 🌱 I’m currently learning **C++, Vue, and PostgreSQL**
