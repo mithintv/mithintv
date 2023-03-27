@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋🏽</h1>
 <h3 align="center">I am a Filmmaker turned self-taught Software Engineer with an enthusiasm for compassionate and empathetic ideas that can have real impact.</h3>
 
-- 🌱 I’m currently learning **Assembly, Svelte, and CassandraDB**
+- 🌱 I’m currently learning **Three.js, Svelte, and Unity**
 
 - 👨‍💻 All of my projects are available at [https://mithin.com](https://mithin.com)
 
