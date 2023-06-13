@@ -1,15 +1,15 @@
 <h1 align="center">Hi there! 👋🏽</h1>
-<h3 align="center">I am a Filmmaker turned self-taught Software Engineer with an enthusiasm for compassionate and empathetic ideas that can have real impact.</h3>
+<h3 align="center">I am a Filmmaker turned Software Engineer with an enthusiasm for compassionate and empathetic ideas that can have real impact.</h3>
 
 - 🌱 I’m currently learning **Three.js, Svelte, and Unity**
 
 - 👨‍💻 All of my projects are available at [https://mithin.com](https://mithin.com)
 
-- 💬 Ask me about **Javascript, React, and MongoDB**
+- 💬 Ask me about **the intersection of art and technology**
 
 - 📫 How to reach me **mithingthomas@gmail.com**
 
-- ⚡ Fun fact: **I never learned how to swim and I think raw tomatoes are gross**
+- ⚡ Fun fact: **Raw tomatoes are gross**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
