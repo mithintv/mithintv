@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **the intersection of art and technology**
 
-- 📫 How to reach me **mithingthomas@gmail.com**
-
 - ⚡ Fun fact: **Raw tomatoes are gross**
 
 <h3 align="left">Connect with me:</h3>
